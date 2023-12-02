@@ -1,2 +1,3 @@
 # demo1
-this is my Git Repository
+This is my Git Repository
+Author - Shahanwaz M K
